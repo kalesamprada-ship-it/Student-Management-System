@@ -1,0 +1,6 @@
+.container { max-width: 900px; margin: 2rem auto; padding: 0 1rem; text-align: left; }
+.form { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+.form input { padding: .5rem; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border-bottom: 1px solid #8884; padding: .5rem; text-align: left; }
+.error { color: #c00; }
